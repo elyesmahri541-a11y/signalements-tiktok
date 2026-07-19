@@ -1,4 +1,4 @@
 theme: minima
 title: "Recensement des Signalements TikTok"
-description: "Suivi et archivage de mes signalements sur la plateforme TikTok."
-
+description: "Suivi et archivage de mes signalements."
+plugins: [jekyll-feed]
